@@ -19,3 +19,10 @@ width: 60%;
   top:0;
   z-index:99999;
 }
+
+.myNavbar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
