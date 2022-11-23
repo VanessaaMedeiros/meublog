@@ -1,0 +1,21 @@
+.viagem_Div
+{
+
+border : 1px solid rgb(226, 17, 17);
+
+}
+
+.viagem_Div img
+{
+
+width: 60%;
+
+}
+
+.my_nav_bar
+{
+  position:sticky;
+  background-color: aqua;
+  top:0;
+  z-index:99999;
+}
